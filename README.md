@@ -27,4 +27,4 @@ Welcoming Contributions to this project, But First pull it as a separate Branch.
 
 ## Made BY
 
-Kunal Jindal (@kunal.devloper) And Yash Jindal(@yashjnx For Various purposes.
+Kunal Jindal (@kunal.devloper) And Yash Jindal(@yashjnx) For Various purposes.
